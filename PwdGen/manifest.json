@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Password Generator Plus",
+  "version": "1.0",
+  "description": "Generate strong passwords automatically and fill confirmation fields",
+  "permissions": ["clipboardWrite", "activeTab", "scripting"],
+  "action": {
+    "default_icon": {
+      "16": "pwdgen16.png",
+      "48": "pwdgen48.png",
+      "128": "pwdgen128.png"
+    },
+    "default_title": "Generate strong password"
+  },
+  "icons": {
+    "16": "pwdgen16.png",
+    "48": "pwdgen48.png",
+    "128": "pwdgen128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
