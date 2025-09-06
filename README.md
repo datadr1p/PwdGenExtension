@@ -21,6 +21,6 @@ git clone https://github.com/datadr1p/PwdGenExtension.git
 
 </details>
 
-<img width="1008" height="342" alt="image" src="https://github.com/user-attachments/assets/0d3dd5ba-a7ae-4d47-836c-af7a7dd03ec7" />
-<img width="999" height="354" alt="image" src="https://github.com/user-attachments/assets/6a87a04c-5444-4e71-94ed-1a9be5c152fc" />
+<img src="https://github.com/user-attachments/assets/0d3dd5ba-a7ae-4d47-836c-af7a7dd03ec7" alt="image" width="400"/>
+<img src="https://github.com/user-attachments/assets/6a87a04c-5444-4e71-94ed-1a9be5c152fc" alt="image" width="400"/>
 
