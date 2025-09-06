@@ -4,6 +4,7 @@
 <details>
 <summary> How to install</summary>
 
+<br>
   
 1. Clone the project:  
 ```cmd
