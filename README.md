@@ -1,7 +1,7 @@
 # PwdGenExtension
 *Extension Password Gen is easy to use and created for your online security, the extension is very simple.*
 
-<details> <summary>➡ How to install in your browser</summary>
+<details> <summary> How to install </summary>
 
 1. Clone the project:  
 ```cmd
